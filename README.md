@@ -1,6 +1,6 @@
 # 🧩 Ash Export FBX
 
-![Preview Banner](https://github.com/ashwathjain/ash-export-fbx/assets/banner.png)  
+![Preview Banner](https://github.com/ashwathjain/Blender-FBX-Exporter-By-Ash/blob/main/banner.png)
 *A lightweight Blender add-on that exports each object as a separate FBX file in one click*
 
 ---
